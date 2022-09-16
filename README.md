@@ -1,3 +1,3 @@
 # Edem2022
-Rafael Cuquerella Cots
+RAFAEL Cuquerella Cots
 Clase de Git
